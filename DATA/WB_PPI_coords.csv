@@ -1,0 +1,366 @@
+"","Country","Project.name","Subtype.of.PPI","Project.status","Subsector","Location4.1","ContractPeriod","InvestmentYear","TotalInvestment","CapacityType","Capacity","lon","lat"
+"1","China","Harbin Water Supply Project","BOT","Active","Treatment plant","Harbin","30",1994,"20","Cubic meters per day (in thousands)","224.64",126.534967,45.803775
+"2","China","Zhongshan Tanzhou Water Plant","BROT","Active","Treatment plant","Tanzhou City","35",1994,"10.8","Number of installed connections ( in thousands)","100",113.467503,22.254836
+"3","China","Shenyang No. 8 Water Plant ","BROT","Cancelled","Treatment plant","Shenyang City","30",1995,"150","Cubic meters per day (in thousands)","449.28",123.431472,41.805699
+"4","China","Da Chang Water Treatment Plant","BOT","Cancelled","Treatment plant","Da Chang","20",1996,"73","Cubic meters per day (in thousands)","400",116.989574,39.886547
+"5","China","Nanchang Shuanggang Water Supply Company Ltd.","BROT","Active","Treatment plant","Nanchang city","28",1996,"35.3","Cubic meters per day (in thousands)","199.584",115.858197,28.682892
+"6","China","Nanhai Water Treatment Plant","BOT","Active","Treatment plant","Nanhai City","20",1996,"16","Cubic meters per day (in thousands)","249.696",113.164201,23.198526
+"7","China","Zaija Water (Shenyang No.9)","BOT","Cancelled","Treatment plant","Shenyang city","20",1996,"25","Cubic meters per day (in thousands)","150.336",123.431472,41.805699
+"8","China","Jiangmen Water","ROT","Active","Treatment plant","Jiangmen city","20",1997,"60","Cubic meters per day (in thousands)","500.256",113.081508,22.579117
+"9","China","Lianjiang Water Supply","BOT","Active","Treatment plant","Lianjing","30",1997,"16.7","Cubic meters per day (in thousands)","100.224",114.872537,23.338828
+"10","China","Shenyang Shifosi Water Plant","ROT","Active","Treatment plant","Shenyang","20",1997,"48.2","Cubic meters per day (in thousands)","371.52",123.431472,41.805699
+"11","China","Tianjin Lingzhuang Water Treatment Plant","BOT","Active","Treatment plant","Lingzhuang district ","20",1997,"30","Cubic meters per day (in thousands)","500.256",110.179953,25.234479
+"12","China","Xian South Water Works","BOT","Cancelled","Treatment plant","Xian","20",1997,"30","Cubic meters per day (in thousands)","500.256",108.93977,34.341574
+"13","China","Xiejiang Water Plant","ROT","Active","Treatment plant","Jiangmen City","18",1997,"26.5","Cubic meters per day (in thousands)","222.912",113.081508,22.579117
+"14","China","Binzhou Cathay Water Plant ","ROT","Cancelled","Treatment plant","Binzhou Municipality","20",1998,"6.6","Cubic meters per day (in thousands)","50.112",117.970699,37.38198
+"15","China","Binzhou Dongiao Water","ROT","Cancelled","Treatment plant","Binzhou city","20",1998,"9.9","Cubic meters per day (in thousands)","39.744",117.970699,37.38198
+"16","China","Changli Water Supply","BOT","Active","Water Utility","Changli county","20",1998,"11","Population (in thousands)","100",119.162693,39.712813
+"17","China","Jinan Water","BOT","Cancelled","Treatment plant","Jinan city","26",1998,"90","Cubic meters per day (in thousands)","900.288",117.120095,36.6512
+"18","China","Jinan Water (Dayang Plant) ","BOT","Cancelled","Treatment plant","Jinan city","26",1998,"30","Cubic meters per day (in thousands)","400.032",117.120095,36.6512
+"19","China","Yueyang Kai Yuan Water Supply Company Limited","ROT","Cancelled","Treatment plant","Yueyang City","18",1998,"18","Cubic meters per day (in thousands)","371.52",113.12873,29.356803
+"20","China","Zhongshan Dafeng Water Plant","ROT","Active","Treatment plant","Zhongshan","22",1998,"29.9","Cubic meters per day (in thousands)","199.584",113.39277,22.517585
+"21","China","Zhongshan Quanlu Water Plant","ROT","Active","Treatment plant","Zhongshan","22",1998,"26.6","Cubic meters per day (in thousands)","1296",113.39277,22.517585
+"22","China","Changtu Water Plant","BOT","Active","Treatment plant","Changtu County","30",1999,"11.6","Cubic meters per day (in thousands)","100.224",124.111099,42.785791
+"23","China","Chengdu No. 6 Water Plant B","BOT","Active","Treatment plant","Chengdu","18",1999,"107.6","Cubic meters per day (in thousands)","460",104.066801,30.572815
+"24","China","Baoding Water Plant","ROT","Active","Treatment plant","Hubei Province","20",2000,"24.2","Cubic meters per day (in thousands)","259.2",112.2384017,30.7378118
+"25","China","Changchun Wastewater Project","BOO","Cancelled","Treatment plant","Changchun city","21",2000,"32","Cubic meters per day (in thousands)","468.288",125.323544,43.817071
+"26","China","Hexian Water Treatment Plant","ROT","Active","Treatment plant","Hexian city","20",2000,"7.3","Number of installed connections ( in thousands)","630",102.998521,36.123686
+"27","China","Siping Water Plant","BROT","Active","Treatment plant","Jilin Province","30",2000,"8.9","Cubic meters per day (in thousands)","118.368",126.4371385,43.1520105
+"28","China","Chongqing City Water Supply","Management","Active","Water Utility","Yongchuan City","50",2001,"13.2","Population (in thousands)","300",105.927375,29.356117
+"29","China","Qitaihe Water Project","BOT","Active","Treatment plant","Qitaihe City","25",2001,"12","Cubic meters per day (in thousands)","111",131.0031381,45.771726
+"30","China","Shanghai Fengxian Saur Water","ROT","Cancelled","Treatment plant","Fengxian District of Shanghai","11",2001,"10.3","Cubic meters per day (in thousands)","100",121.474042,30.917795
+"31","China","Shenzhen Wastewater Treatment Plants","Management","Active","Treatment plant","Shenzhen city","15",2001,NA,"Cubic meters per day (in thousands)","65",114.057865,22.543096
+"32","China","Xi Lang Wastewater","BOT","Active","Treatment plant","Guangzhou City","20",2001,"120","Cubic meters per day (in thousands)","400",113.264385,23.12911
+"33","China","Xiao Shun Jiang Water Project","BOO","Cancelled","Treatment plant","Shaoxing city","20",2001,"26","Cubic meters per day (in thousands)","400",120.586109,29.995762
+"34","China","Xinhui East Wastewater Treatment Plant","BOT","Active","Treatment plant","Jiangmen city","20",2001,"4.4",NA,NA,113.081508,22.579117
+"35","China","Xinle Wastewater Treatment Plant ","BOT","Active","Treatment plant","Xinle City","22",2001,"4.1","Cubic meters per day (in thousands)","40",114.684014,38.343295
+"36","China","Zhengzhou Water Supply Project","ROT","Active","Treatment plant","Huiji District","30",2001,"37.8","Cubic meters per day (in thousands)","360",113.6169,34.867457
+"37","China","Zhu Zhuan Qiao Wastewater","BOT","Active","Treatment plant","Hefei city","23",2001,"14.46","Cubic meters per day (in thousands)","55",117.227219,31.820591
+"38","China","Baoji Water","ROT","Active","Treatment plant","Baoji city","23",2002,"42.45","Cubic meters per day (in thousands)","232",107.237743,34.363184
+"39","China","Foshan Wastewater Plant","BOT","Active","Treatment plant","Foshan city","20",2002,"30.4","Cubic meters per day (in thousands)","100.224",113.121435,23.021478
+"40","China","Hebei Handan Ci County Wastewater Treatment Plant","BOT","Active","Treatment plant","Ci County","25",2002,"13.65","Cubic meters per day (in thousands)","50",114.38035,36.359285
+"41","China","Hubei Jinmen Xiajiawan Wastewater Treatment Plant","BOT","Active","Treatment plant","Jinmen City","25",2002,"6.04","Cubic meters per day (in thousands)","50",118.4435334,24.4861404
+"42","China","Jiangsu Taicang City East Wastewater Treatment Plant","BOT","Active","Treatment plant","Taicang City","25",2002,"7.3","Cubic meters per day (in thousands)","20",121.13055,31.457735
+"43","China","Jie Yuan Water Treatment Plant","BROT","Active","Treatment plant","Hongqiao District","20",2002,"20","Cubic meters per day (in thousands)","500",121.384616,31.177397
+"44","China","Jinan Yellow River Water Plant","ROT","Active","Treatment plant","Jinan City","25",2002,"34.78","Cubic meters per day (in thousands)","400",117.120095,36.6512
+"45","China","Lijiatuo and Qiezixi Wastewater ","BOT","Active","Treatment plant","Chongqing Municipality","30",2002,"17.5","Cubic meters per day (in thousands)","100",106.912251,29.4315861
+"46","China","Panjin Water","ROT","Active","Treatment plant","Panjin city","30",2002,"7.25","Cubic meters per day (in thousands)","110",122.070714,41.119997
+"47","China","Qingdao Desalination Plant","BOT","Active","Treatment plant","Qingdao city","20",2002,"5","Cubic meters per day (in thousands)","3",120.382609,36.067108
+"48","China","Qingdao Water","ROT","Active","Treatment plant","Qingdao","25",2002,"15.1","Cubic meters per day (in thousands)","540",120.382609,36.067108
+"49","China","Shanghai Pudong Water","BROT","Active","Water Utility","Pudong District","50",2002,"396","Number of installed connections ( in thousands)","550",121.544379,31.221517
+"50","China","Zhuhai Wastewater","BROT","Active","Treatment plant","Zhuhai Municipality","30",2002,"28.47","Cubic meters per day (in thousands)","50",113.576677,22.270978
+"51","China","Beijing Lugouqiao Wastewater Treatment Plant","BOT","Active","Treatment plant","Beijing City","20",2003,"10.23","Cubic meters per day (in thousands)","100",116.4073963,39.9041999
+"52","China","Boluo County Wastewater Treatment Plant","BOT","Active","Treatment plant","Boluo County","20",2003,NA,NA,NA,114.289528,23.17277
+"53","China","Boluo County Wastewater Treatment Plant","BOT","Active","Treatment plant","Boluo County","20",2004,"5.8",NA,NA,114.289528,23.17277
+"54","China","Changle County Water Project","ROT","Active","Water Utility","Changle county","50",2003,"11.2","Population (in thousands)","600",118.829913,36.706944
+"55","China","Changle County Water Project","ROT","Active","Water Utility","Changle county","50",2005,"0.5",NA,NA,118.829913,36.706944
+"56","China","Deqing Huanzhong Producing Water Company","BOT","Active","Treatment plant","Deqing County","25",2003,"7.95","Cubic meters per day (in thousands)","60",119.9774,30.54251
+"57","China","Diao Bing Shan Wastewater","BOT","Active","Treatment plant","Diao Bing Shan city","25",2003,"8.46","Cubic meters per day (in thousands)","30",122.085119,30.008372
+"58","China","Gongzhuling City Water Supply ","BOO","Active","Treatment plant","Gongzhuling City","30",2003,NA,NA,NA,124.82283,43.504687
+"59","China","Haiyang Wastewater Treatment Plant","BOT","Active","Treatment plant","Haiyang","22",2003,"3.6","Cubic meters per day (in thousands)","18.144",121.158434,36.776378
+"60","China","Huidong County Pingshan District Wastewater Treatment Plant","BOT","Active","Treatment plant","Huidong County","25",2003,"7.19","Cubic meters per day (in thousands)","60",114.719988,22.985014
+"61","China","Jiangsu Feng County Wastewater Treatment Plant","BOT","Active","Treatment plant","Feng County","25",2003,"6.04","Cubic meters per day (in thousands)","40",116.59539,34.693906
+"62","China","Jinan Yuqing Water Plant","Partial","Active","Treatment plant","Jinan City","30",2003,"43.48","Cubic meters per day (in thousands)","280",117.120095,36.6512
+"63","China","Lvshun City Wastewater Treatment Plant","ROT","Active","Treatment plant","Lvshun City","20",2003,"5","Cubic meters per day (in thousands)","60",121.261953,38.851705
+"64","China","Qingdao Wastewater","ROT","Active","Treatment plant","Qingdao city","25",2003,"36.8","Cubic meters per day (in thousands)","203.904",120.382609,36.067108
+"65","China","Qingshanhu Wastewater Treatment Plant ","BOT","Active","Treatment plant","Nanchang city","20",2003,"28.02","Cubic meters per day (in thousands)","330",115.858197,28.682892
+"66","China","Shenzhen Water Group ","ROT","Active","Water Utility","Shenzhen City","50",2003,"400","Population (in thousands)","2200",114.057865,22.543096
+"67","China","Sihui City Wastewater Treatment Plant","BOT","Active","Treatment plant","Sihui City","20",2003,"4.83","Cubic meters per day (in thousands)","30",112.734103,23.327001
+"68","China","Weiyuan County Wastewater Treatment Plant","BOT","Active","Treatment plant","Weiyuan County","25",2003,"3.86","Cubic meters per day (in thousands)","20",104.668879,29.52744
+"69","China","Xiamen Desalination","BOO","Active","Treatment plant","Xiamen city","40",2003,"1.7","Cubic meters per day (in thousands)","5",118.089425,24.479833
+"70","China","Xianyang Water Treatment Plant","BOT","Cancelled","Treatment plant","Xianyang city","30",2003,"24","Cubic meters per day (in thousands)","278",108.708991,34.329605
+"71","China","Yizheng City Zhenzhou Wastewater Treatment Plant","BOT","Active","Treatment plant","Yizheng City","20",2003,"5","Cubic meters per day (in thousands)","50",119.184766,32.272258
+"72","China","Yuan He Water Treatment Plant ","BOT","Active","Treatment plant","Yichun City","29",2003,"9","Cubic meters per day (in thousands)","100",114.416785,27.815743
+"73","China","Zhenjiang City Jianbi Water Plant","ROT","Active","Treatment plant","Zhenjiang City","50",2003,"3.02","Cubic meters per day (in thousands)","25",119.425836,32.187849
+"74","China","Zhucheng Yinhe Wastewater Treatment Plant (Phase I)","BOT","Active","Treatment plant","Zhucheng City","25",2003,"8.7","Cubic meters per day (in thousands)","66",119.410103,35.995654
+"75","China","Bei Yuan Wastewater Treatment Plant ","BOT","Active","Treatment plant","Chaoyang District","23",2004,"7.08","Cubic meters per day (in thousands)","40",116.443107,39.921469
+"76","China","Beijing Tianzhu Wastewater Treatment Plant (Phase 1)","BOT","Active","Treatment plant","Shunyi District","25",2004,"2.4","Cubic meters per day (in thousands)","20",116.65465,40.130347
+"77","China","CGE Zunyi Water Treatment Company ","ROT","Active","Treatment plant","Zunyi","35",2004,"24","Cubic meters per day (in thousands)","199",106.927389,27.725654
+"78","China","Changsha Second Wastewater Treatment Plant ","ROT","Active","Treatment plant","Changsha city","20",2004,"29.8","Cubic meters per day (in thousands)","140",112.938814,28.228209
+"79","China","Dalian Quanshui Wastewater Treatment Plant","BOT","Active","Treatment plant","Dalian City","20",2004,"5","Cubic meters per day (in thousands)","140",121.614682,38.914003
+"80","China","Dongguan City Changping Wastewater Treatment Plant","BOT","Active","Treatment plant","Dongguan City","25",2004,"8.52","Cubic meters per day (in thousands)","60",113.751799,23.020673
+"81","China","Fuzhou CWC Water Company Limited ","ROT","Active","Water Utility","Fuzhou city","30",2004,"18","Population (in thousands)","2430",119.296482,26.074478
+"82","China","Gaomi City No. 2 Wastewater Treatment Plant","BOT","Active","Treatment plant","Gaomi City","25",2004,"6.64","Cubic meters per day (in thousands)","50",119.757032,36.377539
+"83","China","Guizhou Environmental Infrastructure Project","BOT","Active","Treatment plant","Bijie Prefecture","20",2004,"150",NA,NA,105.291643,27.283955
+"84","China","Haerbin Taiping Wastewater Treatment Plant","BOT","Active","Treatment plant","Haerbin City","25",2004,"3.86","Cubic meters per day (in thousands)","325",126.534967,45.803775
+"85","China","Hebei Hengshui Wastewater Treatment Plant","ROT","Active","Treatment plant","Henghsui City","30",2004,"13.29","Cubic meters per day (in thousands)","100",115.670177,37.73892
+"86","China","Hohhot Water Development Project ","ROT","Active","Treatment plant","Hohhot city","30",2004,"42.9","Cubic meters per day (in thousands)","515",111.749995,40.842356
+"87","China","Jiangsu Suining County Wastewater Treatment Plant","BOT","Active","Treatment plant","Suining County","23",2004,"4.83","Cubic meters per day (in thousands)","20",117.941563,33.912597
+"88","China","Kunshan City Wastewater Treatment","BROT","Active","Treatment plant","Kunshan City","30",2004,NA,"Cubic meters per day (in thousands)","88",120.980736,31.385597
+"89","China","Liaoning Desalination Plant ","BOT","Active","Treatment plant","Huludao city","30",2004,"27.78","Cubic meters per day (in thousands)","50",120.83694,40.71104
+"90","China","Liaoyang City Wastewater","ROT","Active","Treatment plant","Liaoyang city","30",2004,"21.7","Cubic meters per day (in thousands)","200",123.236944,41.267244
+"91","China","Panjin City No. 1 Wastewater Treatment Plant","ROT","Active","Treatment plant","Panjin City","30",2004,"30.19","Cubic meters per day (in thousands)","100",122.070714,41.119997
+"92","China","Qingdao III","BOT","Active","Treatment plant","Qingdao city","25",2004,NA,"Cubic meters per day (in thousands)","180",120.382609,36.067108
+"93","China","Qinhuangdao Haigang Sewage Treatment Plant ","BOT","Active","Treatment plant","Haigang district","22",2004,"14.5","Cubic meters per day (in thousands)","120",119.564962,39.94756
+"94","China","Shilong Town Watewater Treatment Plant","BOT","Active","Treatment plant","Shilong Town","25",2004,"6.04","Cubic meters per day (in thousands)","40",91.8932535,25.5787726
+"95","China","Wangxiaoying Wastewater Treatment Plant","ROT","Active","Treatment plant","Hefei city","23",2004,"58","Cubic meters per day (in thousands)","310",117.227219,31.820591
+"96","China","Weifang City Wastewater Treatment Plant","ROT","Active","Treatment plant","Weifang City","20",2004,"26.09","Cubic meters per day (in thousands)","110",119.161748,36.706962
+"98","China","Xianyang City Wastewater Treatment Plant","BOT","Active","Treatment plant","Xianyang City","25",2004,"35","Cubic meters per day (in thousands)","200",108.708991,34.329605
+"99","China","Xuzhou Sewage Treatment Plant","ROT","Active","Treatment plant","Xuzhou City","30",2004,"19.3","Cubic meters per day (in thousands)","165",117.284124,34.205768
+"100","China","Zhenyuan County Wastewater Treatment Plant","BOT","Active","Treatment plant","Zhenyuan County","25",2004,"6.16","Cubic meters per day (in thousands)","20",108.42969,27.049109
+"101","China","Aqualia Bengbu Wastewater","ROT","Active","Treatment plant","Bengbu city","25",2005,"60.6","Cubic meters per day (in thousands)","400",117.389719,32.916287
+"102","China","Beijing Daxing Yufa Town Project","BOT","Active","Treatment plant","Yufa Town","20",2005,"7.33","Cubic meters per day (in thousands)","55",126.545147,45.869072
+"103","China","Cao County Siji Wastewater Treatment Plant","BOT","Active","Treatment plant","Cao County","25",2005,"3.92","Cubic meters per day (in thousands)","30",115.542328,34.825508
+"104","China","Changde City Deshan Wastewater Treatment Plant","BOT","Active","Treatment plant","Changde City","25",2005,"15.94","Cubic meters per day (in thousands)","150",111.698784,29.031654
+"105","China","Changzhou Tap Water group","ROT","Active","Water Utility","Changzhou","30",2005,"55.6","Population (in thousands)","1200",119.974061,31.811226
+"106","China","Chenggong Salcon Water Company","BROT","Active","Water Utility","Chenggong County","30",2005,"29.3","Cubic meters per day (in thousands)","60",102.821468,24.885531
+"107","China","Fenghua City Wastewater Treatment Plant","Management","Active","Treatment plant","Fenghua City","20",2005,"19.73","Cubic meters per day (in thousands)","60",121.406995,29.655143
+"108","China","Handan East Wastewater Treatment Plant Expansion Project","ROT","Active","Treatment plant","Handan city","25",2005,"15.75","Cubic meters per day (in thousands)","199",114.538961,36.625656
+"109","China","Hebei Hangdan Wastewater","BOT","Active","Treatment plant","Hangdan city","22",2005,"10","Cubic meters per day (in thousands)","100",114.538961,36.625656
+"110","China","Hebei Nangong Wastewater Treatment Plant","BOT","Active","Treatment plant","Nangong City","25",2005,"24.15","Cubic meters per day (in thousands)","30",115.408747,37.359264
+"111","China","Hedong Chuangwei Water Co. Ltd.","BROT","Active","Treatment plant","Urumqi","25",2005,"44.7","Cubic meters per day (in thousands)","800",87.616848,43.825592
+"112","China","Henan Wastewater Plants","ROT","Active","Treatment plant","Henan province","22",2005,"7.7","Cubic meters per day (in thousands)","130",113.3823545,34.2904302
+"113","China","Huaiyuan Tapwater Plant","ROT","Active","Treatment plant","Huaiyuan County","20",2005,"0.7","Cubic meters per day (in thousands)","14",117.205237,32.970031
+"114","China","Huaxin Town Wastewater Treatment Plant","BOT","Active","Treatment plant","Qingpu District","30",2005,"19.44","Cubic meters per day (in thousands)","51",121.124178,31.150681
+"115","China","Huzhou City North Water Plant Extension Project","BOT","Active","Treatment plant","Huzhou City","25",2005,"24.42","Cubic meters per day (in thousands)","300",120.086809,30.89441
+"116","China","Jiangdu Water Treatment Plant","BOT","Active","Treatment plant","Jiangdu city","30",2005,"11.97","Cubic meters per day (in thousands)","50",119.569989,32.434672
+"117","China","Jiashan County Xitang Town Wastewater Treatment Project","BOT","Active","Treatment plant","Xitang Town","25",2005,"5.74","Cubic meters per day (in thousands)","15",120.891293,30.938787
+"118","China","Kunming Water Supply Company","ROT","Active","Water Utility","Kuming city","30",2005,"124","Cubic meters per day (in thousands)","1600",102.832891,24.880095
+"119","China","Lianyungang Wastewater Concession","ROT","Active","Treatment plant","Lianyungang city","25",2005,"16.9","Cubic meters per day (in thousands)","100",119.221611,34.596653
+"120","China","Lianyungang Wastewater Plant","BOT","Active","Treatment plant","Lianyungang city","25",2005,"12.7","Cubic meters per day (in thousands)","160",119.221611,34.596653
+"121","China","Liaoning Anshan Wastewater Treatment Plant","ROT","Active","Treatment plant","Anshan City","30",2005,"13.43","Cubic meters per day (in thousands)","100",122.994329,41.108647
+"122","China","Linyi City Salcon Water Concession ","ROT","Active","Water Utility","Linyi City","30",2005,"4.4","Population (in thousands)","1000",118.356414,35.104673
+"123","China","Maanshan City Huashan District Wangjiashan Wastewater Treatment Plant","BOT","Active","Treatment plant","Ma'anshan City","25",2005,"10.26","Cubic meters per day (in thousands)","60",118.507011,31.67044
+"124","China","Nanchang Water","BOT","Active","Treatment plant","Nanchang city","20",2005,"21.69","Cubic meters per day (in thousands)","200",115.858197,28.682892
+"125","China","Nanchang Xianghu Wastewater Treatment Plant","BOT","Active","Treatment plant","Nanchang City","30",2005,"22.59","Cubic meters per day (in thousands)","200",115.858197,28.682892
+"126","China","Nanjing Wastewater Plant","BOT","Active","Treatment plant","Nanjing city","25",2005,"10","Cubic meters per day (in thousands)","40",118.796877,32.060255
+"127","China","Pizhou City Water Supply Project","BOT","Active","Treatment plant","Pizhou","25",2005,"9.9","Cubic meters per day (in thousands)","100",118.012531,34.338888
+"128","China","Rugao Water Treatment Plant","BOT","Active","Treatment plant","Rugao city","25",2005,"48.1","Cubic meters per day (in thousands)","185.76",120.574945,32.370557
+"129","China","Shan County Jiashan River Wastewater Treatment Plant","BOT","Active","Treatment plant","Shan County","25",2005,"8.18","Cubic meters per day (in thousands)","40",116.107428,34.778808
+"130","China","Shandong Changyi Wastewater Treatment Plant","BOT","Active","Treatment plant","Changyi City","20",2005,"5.49","Cubic meters per day (in thousands)","30",119.398525,36.858819
+"131","China","Shanghai Zhuyuan No. 1 Sewage Treatment Plant","ROT","Active","Treatment plant","Shanghai Municipaclity","20",2005,"18.12","Cubic meters per day (in thousands)","1700",121.4737021,31.2303904
+"132","China","Suqian Water and Wastewater Plants","BOT","Active","Treatment plant","Suqian city","30",2005,"21.5","Cubic meters per day (in thousands)","60",118.275198,33.963232
+"133","China","Tangshan City Qianxi County Wastewater Treatment Plant","BOT","Active","Treatment plant","Qianxi County","25",2005,"8.55","Cubic meters per day (in thousands)","40",106.033544,27.007713
+"134","China","Wuhan Hanxi Municipal Wastewater Treatment Project ","BOT","Active","Treatment plant","Hankou District","25",2005,"23.57","Cubic meters per day (in thousands)","400",114.305539,30.592849
+"135","China","Wuhu Hong Kong and China Water Company Limited","ROT","Active","Water Utility","Wuhu city","30",2005,"84.6","Population (in thousands)","2250",118.432941,31.352859
+"136","China","Wujiang Hong Kong and China Water Company Limited","ROT","Active","Water Utility","Wujiang City","30",2005,"117","Population (in thousands)","1000",120.645158,31.138677
+"137","China","Wuxi Qianqiao Comprehensive Wastewater Treatment Plant","BOT","Active","Treatment plant","Wuxi City","20",2005,"14.65","Cubic meters per day (in thousands)","60",120.31191,31.491169
+"138","China","Xintai City Wastewater","BOT","Active","Treatment plant","Xintai City","30",2005,"12.85","Cubic meters per day (in thousands)","80",117.767952,35.909032
+"139","China","Zhuozhou Sewage Treatment Plants ","BOT","Cancelled","Treatment plant","Zhuozhou city","25",2005,"15.1","Cubic meters per day (in thousands)","74",115.974422,39.485282
+"140","China","Anhui Xiuning County Wastewater Treatment Plant","BOT","Active","Treatment plant","Xiuning County","25",2006,"9.79","Cubic meters per day (in thousands)","40",118.193668,29.784044
+"141","China","Beijing Underground Waste Water Treatment Facility","BOT","Active","Treatment plant","Beijing City","29",2006,"13.8","Cubic meters per day (in thousands)","40",116.4073963,39.9041999
+"142","China","Caijiabo Wastewater Treatment Plant","BOT","Active","Treatment plant","Baoji City","20",2006,"7.5","Cubic meters per day (in thousands)","50",107.237743,34.363184
+"143","China","Changshu Water Supply Company Ltd.","Lease","Active","Water Utility","Changshu City","30",2006,"75.4","Cubic meters per day (in thousands)","675",120.752481,31.654375
+"144","China","Changxing County Meishan Town Water and Wastewater Treatment Plant","BOT","Active","Treatment plant","Changxing County","25",2006,"14.75","Cubic meters per day (in thousands)","45",119.910952,31.026665
+"145","China","Chongqing Wastewater Treatment Plant","BOT","Active","Treatment plant","Chongqing Muncipality","30",2006,"37.64","Cubic meters per day (in thousands)","302",106.912251,29.4315861
+"146","China","Dalian City Chunliu River Wastewater Treatment Plant Phase II","BOT","Active","Treatment plant","Dalian City","20",2006,"14.44","Cubic meters per day (in thousands)","120",121.614682,38.914003
+"147","China","Dalian City Malan River Wastewater Treatment Plant Phase II","BOT","Active","Treatment plant","Dalian City","20",2006,"12.55","Cubic meters per day (in thousands)","80",121.614682,38.914003
+"148","China","Dengzhou City Wastewater Treatment Plant","BOT","Active","Treatment plant","Dengzhou City","30",2006,"4.02","Cubic meters per day (in thousands)","30",112.087455,32.687733
+"149","China","Deqing Potable Water Treatment Plant","BOT","Active","Treatment plant","Deqing County","25",2006,"20","Cubic meters per day (in thousands)","104",119.9774,30.54251
+"150","China","Fengtai County Water Supply Facility","BOT","Active","Treatment plant","Fengtai County","40",2006,"17.8","Cubic meters per day (in thousands)","104",116.71105,32.709444
+"151","China","Ganyu County Sewerage Treatment Facility","BOT","Active","Treatment plant","Ganyu County","20",2006,"48.5","Cubic meters per day (in thousands)","20",118.911163,34.873204
+"152","China","Haining City Water Treatment Plant","BROT","Active","Treatment plant","Haining City","30",2006,"6.75","Cubic meters per day (in thousands)","360",120.680757,30.510659
+"153","China","Henan Jiaozuo Wastewater Treatment Plant (Phase one)","ROT","Active","Treatment plant","Jiaozuo City","26",2006,"15","Cubic meters per day (in thousands)","100",113.241823,35.215892
+"154","China","Henan Jiaozuo Wastewater Treatment Plant (Phase two)","BOT","Active","Treatment plant","Jiaozuo City","26",2006,"23.84","Cubic meters per day (in thousands)","150",113.241823,35.215892
+"155","China","Henan Shangqiu Wastewater Treatment Plant (Phase one)","ROT","Active","Treatment plant","Shangqiu City","25",2006,"11.29","Cubic meters per day (in thousands)","80",115.656339,34.414961
+"156","China","Ji'an Luozishan Wastewater Treatment Plant","BOT","Active","Treatment plant","Ji'an City","25",2006,NA,"Cubic meters per day (in thousands)","80",114.964696,27.087637
+"157","China","Jilin Siping City Wastewater Treatment Plant","ROT","Active","Treatment plant","Siping City","30",2006,"11.29","Cubic meters per day (in thousands)","90",124.350398,43.166419
+"158","China","Jinzhou City Hongguang Wastewater Treatment Plant","ROT","Active","Treatment plant","Jinzhou City","25",2006,"16.3","Cubic meters per day (in thousands)","100",121.1268459,41.095685
+"159","China","Langfang City Water Treatment Project","BROT","Active","Treatment plant","Langfang City","25",2006,"18.9","Cubic meters per day (in thousands)","121",116.683752,39.538047
+"160","China","Liaoyang City Recycled Water Supply","BOT","Active","Treatment plant","Liaoyang City","30",2006,"9.7","Cubic meters per day (in thousands)","30",123.236944,41.267244
+"161","China","Linyi Nanfang New District Wastewater Treatment Plant","BOT","Active","Treatment plant","Linyi City","25",2006,NA,"Cubic meters per day (in thousands)","80",118.356414,35.104673
+"162","China","Liuzhou Water Services","Lease","Active","Treatment plant","Liuzhou City","30",2006,"7.53","Cubic meters per day (in thousands)","455",109.428608,24.326292
+"163","China","Ning Jin County Waste Water Plant","BOT","Active","Treatment plant","Ning Jin County","25",2006,"4.2","Cubic meters per day (in thousands)","30",116.800306,37.652189
+"164","China","Pan'an Wastewater Treatment Plant","BOT","Active","Treatment plant","Pan'an County","30",2006,"3.44","Cubic meters per day (in thousands)","15",120.450186,29.054045
+"165","China","Shandong Linyi Nanfang New District Wastewater Treatment Plant","BOT","Active","Treatment plant","Linyi City","25",2006,NA,"Cubic meters per day (in thousands)","80",118.356414,35.104673
+"166","China","Shandong Wendeng Dashuipo Town Water Plant ","BOT","Active","Treatment plant","Dashuipo Town","50",2006,"1.51","Cubic meters per day (in thousands)","10",122.255334,37.185925
+"167","China","Suzhou Wastewater Treatment Facility","BOT","Active","Treatment plant","Suzhou City","27",2006,"62.7","Cubic meters per day (in thousands)","150",120.585289,31.298974
+"168","China","Suzhou Wastewater Treatment Plant","BROT","Active","Treatment plant","Suzhou City","28",2006,"10.04","Cubic meters per day (in thousands)","80",120.585289,31.298974
+"169","China","Tianchang City Water Plant","BOT","Active","Treatment plant","Tianchang City","30",2006,"10.79","Cubic meters per day (in thousands)","100",119.004816,32.667571
+"170","China","Tianjin Muncipal Water Treatment Plant","BOT","Active","Treatment plant","Wuqing District","20",2006,"2","Cubic meters per day (in thousands)","20",117.044387,39.384119
+"171","China","Tongliao Wastewater Treatment Plant","BOT","Active","Treatment plant","Tongliao City","25",2006,"16.31","Cubic meters per day (in thousands)","100",122.243444,43.65289
+"172","China","Wuhan City Waste Water Treatment Facility","ROT","Active","Treatment plant","Wuhan City","29",2006,NA,"Cubic meters per day (in thousands)",NA,114.305539,30.592849
+"173","China","Xiangfan Xiangcheng Guanyinge Wastewater Treatment Plant","BOT","Active","Treatment plant","Xiangfan City","25",2006,"12.55","Cubic meters per day (in thousands)","100",112.122426,32.009016
+"174","China","Xinyu Water Affairs Group Co., Ltd. ","ROT","Active","Water Utility","Xinyu City","30",2006,"12.55","Population (in thousands)","500",114.917346,27.817808
+"175","China","Zhangzhu Town Waste Water Treatment Plant","Lease","Active","Treatment plant","Zhangzhu Town","25",2006,"2","Cubic meters per day (in thousands)","10",103.875775,33.28915
+"176","China","Zhejiang Lishui Yunhe Wastewater Treatment Plant","BOT","Active","Treatment plant","Yunhe County","27",2006,NA,"Cubic meters per day (in thousands)","30",119.573397,28.11579
+"177","China","Baotou City Wanshuiquan District Wastewater Treatment Project","BOT","Active","Treatment plant","Baotou City","30",2007,"52.63","Cubic meters per day (in thousands)","200",109.840313,40.657978
+"178","China","Beijing No. 10 Water Plant A","BOT","Active","Treatment plant","Beijing Municipality","23",2007,"197.37","Cubic meters per day (in thousands)","500",116.4073963,39.9041999
+"179","China","Binzhou City Nanhai Water Supply Project","BOT","Active","Treatment plant","Binzhou City","30",2007,"9.47","Cubic meters per day (in thousands)","50",117.970699,37.38198
+"180","China","Daming County Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Daming County","30",2007,"6.26","Cubic meters per day (in thousands)","20",115.147814,36.285616
+"181","China","Dezhou City Xiajin Water Supply Project","BOT","Active","Treatment plant","Xiajin County","28",2007,"13.47","Cubic meters per day (in thousands)","104",116.001726,36.948371
+"182","China","Fengxiang County wastewater treatment project","BOT","Active","Treatment plant","Fengxiang County","26",2007,"7.5","Cubic meters per day (in thousands)","20",107.400737,34.521217
+"183","China","Foshan City Wastewater Treatment Project","BOT","Active","Treatment plant","Shishan Town","23",2007,"7.89","Cubic meters per day (in thousands)","50",120.524248,31.4510805
+"184","China","Gaoan City Water Affairs Group Ltd. ","ROT","Active","Water Utility","Gaoan City","30",2007,"13.16","Population (in thousands)","830",115.360554,28.441209
+"185","China","Guanyun County Water Supply and Wastewater Treatment Plant","BOT","Active","Treatment plant","Guanyun County","30",2007,"16.75","Cubic meters per day (in thousands)","80",119.239381,34.284381
+"186","China","Haikou City No. 1 Water Affairs Company Limited","ROT","Active","Water Utility","Haikou City","30",2007,"122.82","Population (in thousands)","800",110.198286,20.044412
+"187","China","Hanzhong City Xingyuan Water Supply Company Ltd","ROT","Active","Water Utility","Hanzhong City","25",2007,"13.59","Population (in thousands)","280",107.023323,33.06748
+"188","China","Hu County Wastewater Treatment and Recycling Project","BOT","Active","Treatment plant","Hu County","30",2007,"12.89","Cubic meters per day (in thousands)","60",108.604894,34.109244
+"189","China","Huangpi Sewerage Collection Network Project","BOT","Active","Water Utility","Huangpi District","20",2007,"43.42","Cubic meters per day (in thousands)","450",114.375743,30.882557
+"190","China","Huangpi Water Supply Facilities","ROT","Active","Water Utility","Huangpi District","30",2007,"110.53","Population (in thousands)","1130",114.375743,30.882557
+"191","China","Jining Haiyuan Water Co., Ltd.","ROT","Active","Treatment plant","Jining City","29",2007,"5.27","Cubic meters per day (in thousands)","30",116.587282,35.414982
+"192","China","Lankao County Wastewater Treatment Plant","BOT","Active","Treatment plant","Lankao County","18",2007,"4.34","Cubic meters per day (in thousands)","25",114.821348,34.822211
+"193","China","Lanzhou City Water Supply Group ","ROT","Active","Water Utility","Lanzhou City","30",2007,"225","Population (in thousands)","1730",103.834303,36.061089
+"194","China","Linyi Hedong Water Co., Ltd. ","ROT","Active","Treatment plant","Linyi City","30",2007,"5.92",NA,NA,118.356414,35.104673
+"195","China","Lujiang County Urban Wastewater Treatment Plant Project","BOT","Active","Treatment plant","Lujiang County","25",2007,NA,"Cubic meters per day (in thousands)","20",117.2878,31.25555
+"196","China","Nanjing City North Wastewater Treatment Plant","ROT","Active","Treatment plant","Nanjing City","30",2007,"65.79","Cubic meters per day (in thousands)","300",118.796877,32.060255
+"197","China","Nanjing Jiangning City North Wastewater Treatment Plant","BOT","Active","Treatment plant","Nanjing City","25",2007,"14.47","Cubic meters per day (in thousands)","120",118.796877,32.060255
+"198","China","Suizhou City Urban Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Suizhou City","22",2007,"6.58","Cubic meters per day (in thousands)","50",113.382458,31.690215
+"199","China","Suqian City Yanghe Wastewater Treatment Plant","Management","Concluded","Treatment plant","Suqian City","3",2007,NA,"Cubic meters per day (in thousands)","10",118.275198,33.963232
+"200","China","Suzhou City Five Wastewater Treatment Plants","ROT","Active","Treatment plant","Suzhou City","25",2007,"59.21","Cubic meters per day (in thousands)","360",120.585289,31.298974
+"201","China","Taizhou City North Wastewater Treatment Plant","BOT","Active","Treatment plant","Taizhou City","30",2007,"7.24","Cubic meters per day (in thousands)","80",121.42076,28.65638
+"202","China","Tianjin City North Water Affairs Company Limited","ROT","Active","Water Utility","Tianjin Municipality","30",2007,"406.5","Population (in thousands)","1750",117.3616476,39.3433574
+"203","China","Wangcheng County Wastewater Treatment Plant Stage I","BOT","Active","Treatment plant","Wangcheng County","27",2007,"17.1","Cubic meters per day (in thousands)","40",112.833836,28.353912
+"204","China","Wuhu City Tianmenshan Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Wuhu City","25",2007,"9.21","Cubic meters per day (in thousands)","60",118.432941,31.352859
+"205","China","Xi'an City Chang'an District Wastewater Treatment Project","BOT","Active","Treatment plant","Chang'an District","25",2007,"17.63","Cubic meters per day (in thousands)","100",108.906994,34.158997
+"206","China","Xianning City Wenquan Wastewater Plant","BOT","Active","Treatment plant","Xianning City","25",2007,"5.47","Cubic meters per day (in thousands)","60",114.322439,29.841438
+"207","China","Xinmin Wastewater Treatment Plant","BOT","Active","Treatment plant","Xinmin City","30",2007,"13.55","Cubic meters per day (in thousands)","60",122.836723,41.985186
+"208","China","Xuyi County Water Supply Company","ROT","Active","Water Utility","Xuyi County","30",2007,"5.21",NA,NA,118.54436,33.01197
+"209","China","Yangzhong City Water Company","ROT","Active","Treatment plant","Yangzhong City","25",2007,"6.45","Cubic meters per day (in thousands)","75",119.797634,32.23483
+"210","China","Yichun City Water Supply Co., Ltd.","ROT","Active","Treatment plant","Yichun City","30",2007,"3.95","Cubic meters per day (in thousands)","100",114.416785,27.815743
+"211","China","Yidu Wastewater Treatment Project","BOT","Active","Water Utility","Yichu City","25",2007,"8.26",NA,NA,126.0580032,42.9448866
+"212","China","Yongshun County Wastewater Treatment Plant","BOT","Active","Treatment plant","Yongshun County","30",2007,"7.3","Cubic meters per day (in thousands)","30",109.851254,29.00144
+"213","China","Zhaoan County Wastewater Treatment Plant","BOT","Active","Treatment plant","Zhaoan County","30",2007,"8.55","Cubic meters per day (in thousands)","60",117.175184,23.711579
+"214","China","Zhoukou City Water Affairs Group Ltd. ","ROT","Active","Treatment plant","Zhoukou City","30",2007,"6.58","Cubic meters per day (in thousands)","30",114.69695,33.626149
+"215","China","Xigu Wastewater Treatment BOT Project","BOT","Active","Treatment plant","Lanzhou City","30",2008,"18.598","Cubic meters per day (in thousands)","100",103.834303,36.061089
+"216","China","Bama County Wastewater Treatment Plant ","BOT","Active","Treatment plant","Bama County","30",2009,"4.43","Cubic meters per day (in thousands)","15",107.258588,24.142298
+"217","China","Baoji Shilipu Wastewater Treatment Plant ","ROT","Active","Treatment plant","Baoji City","26",2009,"19.85","Cubic meters per day (in thousands)","120",107.237743,34.363184
+"218","China","Changde City Jiangnan Wastewater Treatment Plant","BOT","Active","Treatment plant","Changde City","30",2009,"4.65","Cubic meters per day (in thousands)","15",111.698784,29.031654
+"219","China","Changzhou City Wujin District Wastewater Treatment","Lease","Active","Treatment plant","Wujin District","5",2009,NA,"Cubic meters per day (in thousands)","130",119.942437,31.701187
+"220","China","Chenzhou City No. 3 Wastewater Treatment Plant","BOT","Active","Treatment plant","Chenzhou City","26",2009,"10.25","Cubic meters per day (in thousands)","45",113.014717,25.770509
+"221","China","Chongqing Municipality Yuelai Water Supply Plant ","BOT","Active","Water Utility","Chongqing Municipality","30",2009,"214.59","Cubic meters per day (in thousands)","600",106.912251,29.4315861
+"222","China","Duyun City Wastewater Treatment Plant","ROT","Active","Treatment plant","Duyun City","30",2009,"10.73","Cubic meters per day (in thousands)","60",107.518847,26.259427
+"223","China","Gong County Wastewater Treatment Plant","BOT","Active","Treatment plant","Gong County","25",2009,"7.18","Cubic meters per day (in thousands)","20",104.709202,28.43863
+"224","China","Guangxi Bobai County Wastewater Treatment Plant Project","BOT","Active","Treatment plant","Bobai County","28",2009,"19.16","Cubic meters per day (in thousands)","5",109.975985,22.273048
+"225","China","Guanling County and Ziyun County Wastewater Treatment Plants","BOT","Active","Treatment plant","Guanling County","30",2009,"6.8","Cubic meters per day (in thousands)","8",105.61933,25.94361
+"226","China","Huangmei County Wastewater Treatment Plant","BOT","Active","Treatment plant","Huangmei County","30",2009,"7.08","Cubic meters per day (in thousands)","30",115.944218,30.070453
+"227","China","Jiangmen City Jianghai Wastewater Treatment Plant","BOT","Active","Treatment plant","Jiangmen City","26",2009,"9.59","Cubic meters per day (in thousands)","50",113.081508,22.579117
+"228","China","Jiangmen City Sinan Town Wastewater Treatment Plant","BOT","Active","Treatment plant","Siqian Town","30",2009,"2.93","Cubic meters per day (in thousands)","5",120.4086852,30.4613976
+"229","China","Jinshi City Wastewater Treatment Plant","BOT","Active","Treatment plant","Jinshi City","30",2009,"5.12","Cubic meters per day (in thousands)","40",111.877499,29.60548
+"230","China","Juye County Wastewater Treatment Plant ","ROT","Active","Treatment plant","Juye County","30",2009,"5.72","Cubic meters per day (in thousands)","40",116.065396,35.387374
+"231","China","Lechang City Pingshi Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Lechang City","25",2009,"7.15","Cubic meters per day (in thousands)","20",113.347545,25.130602
+"232","China","Lianyuan City Wastewater Treatment Plant","BOT","Active","Treatment plant","Lianyuan City","30",2009,"5.56","Cubic meters per day (in thousands)","20",111.664316,27.692542
+"233","China","Licheng Wastewater Treatment Plant","BOT","Active","Treatment plant","Licheng District","30",2009,"5.86","Cubic meters per day (in thousands)","35",117.06523,36.680259
+"234","China","Lufeng County Wastewater Treatment Plant ","BOT","Active","Treatment plant","Lufeng County","34",2009,"14.26","Cubic meters per day (in thousands)","10",102.079027,25.150111
+"235","China","Miluo City Wastewater Treatment Plant","BOT","Active","Treatment plant","Miluo City","28",2009,"6.15","Cubic meters per day (in thousands)","25",113.06724,28.806394
+"236","China","Ningxiang County Wastewater Treatment Plant","BOT","Active","Treatment plant","Ningxiang County","26",2009,"10.67","Cubic meters per day (in thousands)","50",112.551885,28.277482
+"237","China","Putian Wastewater Treatment Plant Phase II","BOT","Active","Treatment plant","Putian City","27",2009,"10.01","Cubic meters per day (in thousands)","80",119.007777,25.454084
+"238","China","Weifang City Wastewater Treatment Plant Reclaimed Water Reuse Project","BOT","Active","Treatment plant","Weifang City","30",2009,"3.03","Cubic meters per day (in thousands)","35",119.161748,36.706962
+"239","China","Xianning City Water Supply Project","ROT","Active","Treatment plant","Xianning City","30",2009,"51.24","Cubic meters per day (in thousands)","160",114.322439,29.841438
+"240","China","Xiaochang County Wastewater Treatment Plant Project ","BOT","Active","Treatment plant","Xiaochang County","20",2009,"12.01","Cubic meters per day (in thousands)","25",113.998009,31.258159
+"241","China","Yibin County Wastewater Treatment BOT Project ","BOT","Active","Treatment plant","Yibin County","30",2009,"6.44","Cubic meters per day (in thousands)","20",104.533212,28.690045
+"242","China","Yuexi County Wastewater Treatment Plant (Phase I)","BOT","Active","Treatment plant","Yuexi County","25",2009,"7.74","Cubic meters per day (in thousands)","20",102.50768,28.639801
+"243","China"," Zhangjiakou Xuanhua District Yangfang Wastewater Treatment Plant ","ROT","Active","Treatment plant","Xuanhua District","30",2010,"38.97","Cubic meters per day (in thousands)","80",115.099494,40.608793
+"244","China","Liaoyang City River East New City Water Affairs Project","BOT","Active","Water Utility","Liaoyang City","30",2010,"36.03","Cubic meters per day (in thousands)","198",123.236944,41.267244
+"245","China","Ningguo Gangkouzhen Wastewater Treatment Plant","BOT","Active","Treatment plant","Anuhi Province","30",2010,NA,"Cubic meters per day (in thousands)","10",117.9249002,30.6006773
+"246","China","Panjin City No. 2 Wastewater Treatment Plant","ROT","Active","Treatment plant","Panjin City","30",2010,NA,"Cubic meters per day (in thousands)","100",122.070714,41.119997
+"247","China","Qinzhou Economic Development Zone Wastewater Treatment Plant","BOO","Active","Treatment plant","Guangxi Province","50",2010,"9.4","Cubic meters per day (in thousands)","15",108.8076195,23.7247599
+"248","China","Shenze County City South Wastewater Treatment Plant","BOT","Active","Treatment plant","Shenze County","29",2010,"5.18","Cubic meters per day (in thousands)","25",115.20092,38.184033
+"249","China","Yibin City Yangwan Wastewater Treatment Plant","BOT","Active","Treatment plant","Yibin City","30",2010,"8.82","Cubic meters per day (in thousands)","40",104.643159,28.751836
+"250","China","Zaozhuang City Yicheng District Wastewater Treatment Plant","ROT","Active","Treatment plant","Zaozhuang City","25",2010,NA,"Cubic meters per day (in thousands)","40",117.323725,34.810487
+"251","China","Zengcheng Xintang Wastewater Treatment Plant","BOT","Active","Treatment plant","Xintang","25",2010,NA,"Cubic meters per day (in thousands)","200",113.823135,23.296786
+"252","China","Zhuozhou Songlindian Wastewater Treatment Plant","BOT","Active","Treatment plant","Hebei Province","30",2010,"5.02","Cubic meters per day (in thousands)","25",114.9042208,37.8956594
+"253","China","Dihe Wastewater Treatment Plant in Lincheng County ","Management","Active","Treatment plant","Lincheng County","9",2011,NA,"Cubic meters per day (in thousands)","20",114.498761,37.444498
+"254","China","Fujian Anxi Longmen Town Wastewater Treatment Plant","BOT","Active","Treatment plant","Anxi County","30",2011,NA,"Cubic meters per day (in thousands)","12.5",118.186288,25.055954
+"255","China","Guizhou Kaili City Wastewater Treatment Plant ","ROT","Active","Treatment plant","Kaili City","30",2011,"18.34","Cubic meters per day (in thousands)","80",107.981212,26.566867
+"256","China","Hebei Zhangjiakou City Xuanhua District Yangfang Wastewater Treatment Plant","ROT","Active","Treatment plant","Xuanhua District","30",2011,"41.26","Cubic meters per day (in thousands)","120",115.099494,40.608793
+"257","China","Hengshui City Raoyang Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","Hengshui City","4",2011,NA,"Cubic meters per day (in thousands)","15",115.670177,37.73892
+"258","China","Huaning County Wastewater Treatment Plant Concession Project","ROT","Active","Treatment plant","Huaning County","25",2011,NA,"Cubic meters per day (in thousands)","10",102.928835,24.19276
+"259","China","Longyan City No.2 Wastewater Treatment Plant Phase I ","BOT","Active","Treatment plant","Longyan City","31",2011,"5.57","Cubic meters per day (in thousands)","20",117.017536,25.075123
+"260","China","Luquan County Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","Luquan County","10",2011,NA,"Cubic meters per day (in thousands)","6",102.471518,25.551332
+"261","China","Shaanxi Yang County Urban Wastewater Treatment Plant","BOT","Active","Treatment plant","Yang County","30",2011,"18.2","Cubic meters per day (in thousands)","40",107.545836,33.222738
+"262","China","Shandong Junan Wastewater Treatment Plant ","ROT","Active","Treatment plant","Junan County","29",2011,"20.93","Cubic meters per day (in thousands)","90",118.835163,35.174846
+"263","China","Two wastewater treatment plants in Zibo City ","BOT","Active","Treatment plant","Zibo City","28",2011,"15","Cubic meters per day (in thousands)","55",118.055019,36.813546
+"264","China","Wastewater Treatment Facility Portfolio for 18 towns in Changsha County ","BOT","Active","Water Utility","Changsha County","30",2011,"42.03","Cubic meters per day (in thousands)","34.4",113.08081,28.24615
+"265","China","Xiong County Wastewater Treatment Plant Management Agreement","Management","Active","Treatment plant","Xiong County","3",2011,NA,"Cubic meters per day (in thousands)","20",116.10865,38.99455
+"266","China","Yinchuan Wastewater Treatment Plant Concession Project","ROT","Active","Treatment plant","Yinchuan City","30",2011,"123.79","Cubic meters per day (in thousands)","500",106.230908,38.487193
+"267","China","Zhongxiang City Wastewater Treatment Plant Concession Project","ROT","Active","Treatment plant","Zhongxiang City","28",2011,"9.99","Cubic meters per day (in thousands)","50",112.58812,31.16782
+"268","China","Zhuzhou County Wastewater Treatment Plant ","Management","Active","Treatment plant","Zhuzhou County","5",2011,"15.95","Cubic meters per day (in thousands)","20",113.143921,27.699234
+"269","China","Anshan City Dagushan Wastewater Treatment Plant","BOT","Active","Treatment plant","Anshan City","30",2012,"14.9","Cubic meters per day (in thousands)","30",122.994329,41.108647
+"270","China","Anshan City Ningyuan Wastewater Treatment Plant","BOT","Active","Treatment plant","Anshan City","30",2012,"30.11","Cubic meters per day (in thousands)","80",122.994329,41.108647
+"271","China","Bozhou Wastewater Treatment Plant Concession Agreement  ","ROT","Active","Treatment plant","Bozhou City","30",2012,NA,"Cubic meters per day (in thousands)","80",115.778676,33.844582
+"272","China","Chuzhou City No. 2 Wastewater Treatment Plant ","BOT","Active","Treatment plant","Chuzhou City","29",2012,"23.77","Cubic meters per day (in thousands)","50",118.328321,32.253425
+"273","China","Dangtu County No. 2 Wastewater Treatment Plant ","BOT","Active","Treatment plant","Dangtu County","30",2012,"5.03","Cubic meters per day (in thousands)","15",118.497972,31.571213
+"274","China","Dayi County Jinyuan Town and Huashuiwan Town Wastewater Treatment Plants Management Contra","Management","Active","Treatment plant","Dayi County","2",2012,NA,"Cubic meters per day (in thousands)","27",103.511899,30.572331
+"275","China","Emeishan City Wastewater Treatment Plant Concession Agreemet  ","ROT","Active","Treatment plant","Emeishan City","30",2012,"13.31","Cubic meters per day (in thousands)","50",103.484503,29.601198
+"276","China","Funing County Wastewater Treatment Plant Concession Agreement  ","ROT","Active","Treatment plant","Funing County","30",2012,"2.06","Cubic meters per day (in thousands)","10",119.802527,33.759325
+"277","China","Jiangyan City Township Wastewater Treatment Plants ","BOT","Active","Treatment plant","Jiangyan City","25",2012,"76.07","Cubic meters per day (in thousands)","13",120.127934,32.509155
+"278","China","Shifang Wastewater Treatment Plant ","ROT","Active","Treatment plant","Shifang City","30",2012,"5.72","Cubic meters per day (in thousands)","30",104.167501,31.12678
+"279","China","Wuxue City Wastewater Treatment Plant Phase I Concession Agreement  ","ROT","Active","Treatment plant","Wuxue City","25",2012,"3.8","Cubic meters per day (in thousands)","15",115.561217,29.844107
+"280","China","Wuxue City Wastewater Treatment Plant Phase II ","BOT","Active","Treatment plant","Wuxue City","27",2012,"4.75","Cubic meters per day (in thousands)","20",115.561217,29.844107
+"281","China","Zhongxiang City Urban Wastewater Treatment Plant Concession Agreement","ROT","Active","Treatment plant","Zhongxiang City","28",2012,"10.36","Cubic meters per day (in thousands)","50",112.58812,31.16782
+"282","China","Beijing Fatou, Liqiao and Wulituo Wastewater Treatment Plants Concession Agreement","ROT","Active","Treatment plant","Beijing Municipality ","25",2013,"38.71","Cubic meters per day (in thousands)","40",116.4073963,39.9041999
+"283","China","Gangu County Urban Wastewater Treatment Plant O&M Contract","Management","Active","Treatment plant","Gangu County","25",2013,NA,"Cubic meters per day (in thousands)","13",105.335897,34.732099
+"284","China","Gaotai County Urban Area Wastewater Treatment Plant O&M Contract","Management","Active","Treatment plant","Gaotai County","30",2013,NA,"Cubic meters per day (in thousands)","6",99.819316,39.377733
+"285","China","Huaian City Jinhu County Township Wastewater Treatment Plants Management Contract","Management","Active","Treatment plant","Jinhu County","3",2013,"0.8","Cubic meters per day (in thousands)","5",119.020584,33.025433
+"286","China","Huoshan County Wastewater Treatent Plant","ROT","Active","Treatment plant","Huoshan County","30",2013,"4.2","Cubic meters per day (in thousands)","18.7",116.332951,31.392786
+"287","China","Jingbian County Wastewater Treatment Plant Phase II","BOT","Active","Treatment plant","Jingbian County","30",2013,"13.14","Cubic meters per day (in thousands)","15",108.793988,37.599438
+"288","China","Langxi County Wastewater Treatment Plant Management Renewal Agreement","Management","Active","Treatment plant","Langxi County","8",2013,NA,"Cubic meters per day (in thousands)","20",119.179656,31.126412
+"289","China","Nanhe County Wastewater Treatment Plant O&M Contract","Management","Active","Treatment plant","Nanhe County","1",2013,NA,"Cubic meters per day (in thousands)","30",114.683863,37.005017
+"290","China","Ningyang County Wastewater Treatment Plant Concession Agreement","ROT","Active","Treatment plant","Ningyang County","30",2013,NA,"Cubic meters per day (in thousands)","40",116.805796,35.758786
+"291","China","Operation of 4 Water Reclamation Plants in Shunyi District of Beijing","Management","Active","Treatment plant","Shunyi District","25",2013,NA,NA,NA,116.65465,40.130347
+"292","China","Shuangbo County Wastewater Treatment Plant Concession","ROT","Active","Treatment plant","Shuangbo County","30",2013,NA,"Cubic meters per day (in thousands)","10",123.4182833,41.8016106
+"293","China","Suqian City Gengche Wastewater Treatment Plant ","BOT","Active","Treatment plant","Suqian City","25",2013,"9.68","Cubic meters per day (in thousands)","25",118.275198,33.963232
+"294","China","Suqian City North Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Suqian City","25",2013,"8.06","Cubic meters per day (in thousands)","15",118.275198,33.963232
+"295","China","Bazhong City Enyang District Wastewater Treatment Plant","BOT","Active","Treatment plant","Enyang District","30",2014,"4.39","Cubic meters per day (in thousands)","15",106.654386,31.787186
+"296","China","Chengde City Yingzi District Liuyuan Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","Chengde City","5",2014,NA,"Cubic meters per day (in thousands)","20",117.96275,40.952942
+"297","China","Chongqing Jiulongpo District Wastewater Treatment Plants Management Contract","Management","Active","Treatment plant","Jiulongpo District","25",2014,NA,"Cubic meters per day (in thousands)","41.3",106.510676,29.502272
+"298","China","Fuyang City Yingzhou Wastewater Treatment Plant","BOT","Active","Treatment plant","Fuyang City","30",2014,"39.09","Cubic meters per day (in thousands)","100",115.814504,32.890479
+"299","China","Hegang Sanli Water Affairs Company Limited","ROT","Active","Water Utility","Hegang City","30",2014,"17.91","Cubic meters per day (in thousands)","86",130.297964,47.349916
+"300","China","Hongze County 9 Township Wastewater Treatment Plants","Management","Active","Treatment plant","Hognze County","26",2014,NA,"Cubic meters per day (in thousands)","4.5",118.873241,33.294214
+"301","China","Huangping County Township Wastewater Treatment Plants","BOT","Active","Treatment plant","Huangping County","30",2014,"9.12","Cubic meters per day (in thousands)","5.5",107.916411,26.905396
+"302","China","Hunan Leiyang Baiyangdu Wastewater Treatment Plant","BOT","Active","Treatment plant","Leiyang City","30",2014,"53.72","Cubic meters per day (in thousands)","100",112.859759,26.422277
+"303","China","Kaifeng New District Majiahe Wastewater Treatment Plant","ROT","Active","Treatment plant","Kaifeng City","30",2014,"32.56","Cubic meters per day (in thousands)","100",114.307582,34.797281
+"304","China","Shiyan City Shendinghe Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","Shiyan City","8",2014,"13.03","Cubic meters per day (in thousands)","165",110.798266,32.629398
+"305","China","Shuangfeng County Wastewater Treatment Plant Management Renewal Contract","Management","Active","Treatment plant","Shuangfeng County","10",2014,NA,"Cubic meters per day (in thousands)","25",112.175245,27.456658
+"306","China","Tacheng City Wastewater Treatment Plant","BOT","Active","Treatment plant","Tacheng City","30",2014,"13.03","Cubic meters per day (in thousands)","40",82.978928,46.748522
+"307","China","Xishui County Township Wastewater Treatment Plants","BOT","Active","Treatment plant","Xishui County","30",2014,"42.32","Cubic meters per day (in thousands)","10",115.265535,30.451867
+"308","China","Yancheng City 4 Wastewater Treatment Plants Management Contract","Management","Active","Treatment plant","Yancheng City","25",2014,NA,"Cubic meters per day (in thousands)","18",120.16366,33.347316
+"309","China","Yangchun City 5 Township Wastewater Treatment Plants","BOT","Active","Treatment plant","Yangchun City","26",2014,"7.32","Cubic meters per day (in thousands)","16",111.791539,22.170437
+"310","China","Yangzhou Baoying County No. 2 Wastewater Treatment Plant","Management","Active","Treatment plant","Baoying County","3",2014,NA,"Cubic meters per day (in thousands)","20",119.360729,33.240391
+"311","China","Yanshan County Water Diversion Works Phase I","BOT","Active","Water Utility","Yanshan County","50",2014,"26.06","Cubic meters per day (in thousands)","100",104.337243,23.60574
+"312","China","Zhaotong City Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","Zhaotong City","10",2014,NA,"Cubic meters per day (in thousands)","60",103.717465,27.338257
+"313","China","Ankang City Wuli Town Wastewater Treatment Plant","BOT","Active","Treatment plant","Ankang City","30",2015,"6.06","Cubic meters per day (in thousands)","10",109.029022,32.684714
+"314","China","Changshu City Wastewater Treatmet Plant Management Contract","Management","Active","Treatment plant","Changshu City","5",2015,NA,NA,NA,120.752481,31.654375
+"315","China","Chongqing Fengdu County Township Wastewater Treatment Plant Portfolio","BOT","Active","Treatment plant","Fengdu County","20",2015,"31.82","Cubic meters per day (in thousands)","28.8",107.730894,29.8635
+"316","China","Dandong New District Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Dandong City","31",2015,"21.21","Cubic meters per day (in thousands)","35",124.35445,40.000787
+"317","China","Dazhu County 7 Township Wastewater Treatment Plants","BOT","Active","Treatment plant","Dazhu County","25",2015,"15.58","Cubic meters per day (in thousands)","11",107.204744,30.736266
+"318","China","Hefei City Qingxi Wastewater Treatment Plant","BOT","Active","Treatment plant","Hefei City","29",2015,"169.25","Cubic meters per day (in thousands)","200",117.227219,31.820591
+"319","China","Hengshan County Wastewater Treatment Plant Phase I","ROT","Active","Treatment plant","Hengshan County","30",2015,"5.59","Cubic meters per day (in thousands)","20",112.868268,27.23029
+"320","China","Huaiyuan County Wobei Wastewater Treatment Plant","BOT","Active","Treatment plant","Huaiyuan County","30",2015,"15.98","Cubic meters per day (in thousands)","20",117.205237,32.970031
+"321","China","Huaiyuan Couty Wastewater Treatment Plant","ROT","Active","Treatment plant","Huaiyuan County","30",2015,"8.03","Cubic meters per day (in thousands)","30",117.205237,32.970031
+"322","China","Huizhou City Jinshan Wastewater Treatment Phase II and Associated Networks","BOT","Active","Treatment plant","Huizhou City","27",2015,"55.94","Cubic meters per day (in thousands)","100",114.415801,23.112257
+"323","China","Huoqiu County 5 Township Wastewater Treatment Plants","BOT","Active","Treatment plant","Huoqiu County","30",2015,"27.3","Cubic meters per day (in thousands)","20",116.277911,32.353038
+"324","China","Langxi County Wastewater Treatment Plant and Associated Networks","BROT","Active","Treatment plant","Langxi Couty","25",2015,"35.34","Cubic meters per day (in thousands)","40",119.179656,31.126412
+"325","China","Nanjing Xianlin Wastewater Treatment Plant","ROT","Active","Treatment plant","Nanjing City","30",2015,"61.19","Cubic meters per day (in thousands)","100",118.796877,32.060255
+"326","China","Rugao City Tongyuan Wastewater Treatment Phase I II & III","BROT","Active","Treatment plant","Rugao City","30",2015,"58.99","Cubic meters per day (in thousands)","100",120.574945,32.370557
+"327","China","Ruzhou City No. 3 Potable Water Plant","BOT","Active","Treatment plant","Ruzhou City","30",2015,"34.57","Cubic meters per day (in thousands)","60",112.844517,34.167029
+"328","China","Shangqiu City No. 6 Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Shangqiu City","28",2015,"14.89","Cubic meters per day (in thousands)","50",115.656339,34.414961
+"329","China","Shantou City Chaonan District Three Wastewater Treatment Plants","BOT","Active","Treatment plant","Shantou City","30",2015,"104.02","Cubic meters per day (in thousands)","75",116.681972,23.354091
+"330","China","Tonglu Fuchun Wastewater Treatment Plant Phase I and II Rehabilitation Project","BOT","Active","Treatment plant","Tonglu County","25",2015,"31.01","Cubic meters per day (in thousands)","60",119.691434,29.793535
+"331","China","Xingping City Wastewater Treatment Plant Phase I","ROT","Active","Treatment plant","Xingping City","25",2015,"15.93","Cubic meters per day (in thousands)","50",108.490475,34.29922
+"332","China","Yongjia County Jiangdong and Huangtian Wastewater Treatment Plants","BOT","Active","Treatment plant","Yongjia County","30",2015,"22.95","Cubic meters per day (in thousands)","20",120.692025,28.153607
+"333","China","Yunhe County Urben Wastewater Treatment Plant Phase I","ROT","Active","Treatment plant","Yunhe County","28",2015,"1","Cubic meters per day (in thousands)","5",119.573397,28.11579
+"334","China","Yunhe County Urben Wastewater Treatment Plant Phase II","BOT","Active","Treatment plant","Yunhe County","28",2015,"6.1","Cubic meters per day (in thousands)","15",119.573397,28.11579
+"335","China","Zunyi City Tongzi County 13 Wastewater Treatment Plants","BOT","Active","Treatment plant","Tongzi County","30",2015,"28.04","Cubic meters per day (in thousands)","26.2",106.825301,28.133231
+"336","China","Changfeng County Wushan Town Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","Changfeng County","3",2016,NA,"Cubic meters per day (in thousands)","5",117.167563,32.478018
+"337","China","Dali Eryuan County Urban and Rural Watewater Utilities Project","BOT","Active","Treatment plant","Eryuan County","25",2016,"347.64","Cubic meters per day (in thousands)","20",99.951053,26.11116
+"338","China","Dongzhi County Wastewater Treatment Plant","ROT","Active","Treatment plant","Dongzhi County","30",2016,"23.17","Cubic meters per day (in thousands)","20",117.027532,30.111182
+"339","China","Haidong City Ledu District Wastewater Treatment Plant","BOT","Active","Treatment plant","Haidong City","30",2016,"21.47","Cubic meters per day (in thousands)","40",102.104287,36.502039
+"340","China","Hefei City Hudaying Wastewater Treatment Plant","BOT","Active","Treatment plant","Hefei City","29",2016,"59.45","Cubic meters per day (in thousands)","100",117.227219,31.820591
+"341","China","Heshuo County Wastwater Treatment Plant Rehabilitation and Expansion Project","BOT","Active","Treatment plant","Heshuo County","27",2016,"15.37","Cubic meters per day (in thousands)","25",86.863963,42.268371
+"342","China","Jize County East New Zone Wastewater Treatment Plant","BOT","Active","Treatment plant","Jize County","25",2016,"2.99","Cubic meters per day (in thousands)","5",114.878299,36.92035
+"343","China","Leqing City Wengyang Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Leqing City","30",2016,"35.82","Cubic meters per day (in thousands)","60",120.983906,28.113725
+"344","China","Linhai City Nanyang No. 2 Wastewater Treatment Plant Phase I","BOT","Active","Treatment plant","Linhai City","20",2016,"12.04","Cubic meters per day (in thousands)","25",121.131229,28.845441
+"345","China","Meishan City Pengshan District Water Utilities Project Phase I","BOT","Active","Treatment plant","Meishan City","30",2016,"24.8","Cubic meters per day (in thousands)","9.2",103.848396,30.07728
+"346","China","Tongjiang County Township Wastewater Treatment Plant Portfolio","BOT","Active","Treatment plant","Tongjiang County","30",2016,"68.84","Cubic meters per day (in thousands)","23",107.245033,31.911705
+"347","China","Xi'an City No. 9 Wastewater Treatment Plant Phase III","BOT","Active","Treatment plant","Xi'an City","30",2016,"39.13","Cubic meters per day (in thousands)","50",108.93977,34.341574
+"348","China","Xianning City Wastewater Treatment Plant Sludge Disposal Project","BOT","Active","Treatment plant","Xianning City","30",2016,"4.79","Other","100",114.322439,29.841438
+"349","China","Xiantao City Wastewater Treatment Plant Portfolio","BROT","Active","Treatment plant","Xiantao City","30",2016,"46.66","Cubic meters per day (in thousands)","42",113.423482,30.360882
+"350","China","Xingren County Wastewater Treatment Plant Portfolio","BOT","Active","Treatment plant","Xingren County","30",2016,"14.53","Cubic meters per day (in thousands)","11.9",105.186237,25.435183
+"351","China","Yuncheng County No. 2 Wastewater Treatment Plant","Management","Active","Treatment plant","Yuncheng County","15",2016,NA,"Cubic meters per day (in thousands)","10",115.943613,35.599757
+"352","China","Yunfu City Yunan County Wastewater Treatment Plant Portfolio","BOT","Active","Treatment plant","Yunan County","30",2016,"75.61","Cubic meters per day (in thousands)",NA,112.003208,23.071019
+"353","China","Zhaoyuan City Jindu Wastewater Treatment Plant Phase III","BOT","Active","Treatment plant","Zhaoyuan City","26",2016,"28.6","Cubic meters per day (in thousands)","50",120.434071,37.355469
+"354","China","Zhuji City Huandong Recalimed Water Plant","BOT","Active","Treatment plant","Zhuji City","30",2016,"93.92","Cubic meters per day (in thousands)","80",120.246863,29.708692
+"355","China","Baofeng County Wastewater Treatment Plant Concession Project","ROT","Active","Treatment plant","Baofeng County","30",2017,"16.12","Cubic meters per day (in thousands)","40",113.054801,33.868434
+"356","China","Dali Haidong New Mountainous City Er Sea Protection Water Environment Treatment PPP Project","BOT","Active","Treatment plant","Dali City","23",2017,"290.95","Cubic meters per day (in thousands)",NA,100.267638,25.606486
+"357","China","Gulang County Water PPP Project","BOT","Active","Treatment plant","Gulang County","30",2017,"23.5","Cubic meters per day (in thousands)","3",102.897533,37.47012
+"358","China","Hanshan County Government Site Wastewater Treatment Plant","BOT","Active","Treatment plant","Hanshan County","25",2017,"15.71","Cubic meters per day (in thousands)","4.65",118.101421,31.735598
+"359","China","He County Wastewater Treatment Plant Management Contract","Management","Active","Treatment plant","He County","8",2017,"7.06","Cubic meters per day (in thousands)","25",118.353667,31.742293
+"360","China","Huanggang Tuanfeng County Zongluzui Town Wastewater Treatment Plant","BOT","Active","Treatment plant","Tuanfeng County","30",2017,"2.41","Cubic meters per day (in thousands)","15",114.872191,30.643569
+"361","China","Jiaxing City East Reclaimed Water Plant Phase I","BOT","Active","Treatment plant","Jiaxing City","30",2017,"62.16","Cubic meters per day (in thousands)","80",120.758543,30.753924
+"362","China","Liancheng City Wuping County Eight Town Wastewater Treatment Facilities","BOT","Active","Treatment plant","Liancheng County","30",2017,"26.51","Cubic meters per day (in thousands)","16.75",116.754472,25.710538
+"363","China","Linquan County Wastewater Treatmet Plant","BOT","Active","Treatment plant","Linquan County","30",2017,"87.04","Cubic meters per day (in thousands)","106",115.263115,33.039715
+"364","China","Longyan City Wuping County Five Town Wastewater Treatment Facilities","BOT","Active","Treatment plant","Wuping County","30",2017,"27.35","Cubic meters per day (in thousands)","11.3",116.100342,25.095277
+"365","China","Longyan City Yongding County Nine Town Wastewater Treatment Facilities","BOT","Active","Treatment plant","Yongding District","30",2017,"30.54","Cubic meters per day (in thousands)","9.5",110.537138,29.119855
+"366","China","Sihong County Township and Village Wastewater Treatment Plant","BOT","Active","Treatment plant","Sihong County","30",2017,"37.82","Cubic meters per day (in thousands)","22.8",118.223591,33.476051
